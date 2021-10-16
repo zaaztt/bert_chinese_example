@@ -1,5 +1,7 @@
 # HOW TO USE BERT TO PREDICT A CHINESE SENTIMENT CLASSIFICATION?
 
+
+### Pre-train model
 First, you need to clone my code and download chinese pretrained model here:
 
 
@@ -8,7 +10,9 @@ First, you need to clone my code and download chinese pretrained model here:
     Chinese Simplified and Traditional, 12-layer, 768-hidden, 12-heads, 110M
     parameters
 
+### Dataset
 
+You can explore data in the 'data' directory. We use sentiment in this instruction. You can test another one which is about stocks by you interests.
 
 ### Sentence (and sentence-pair) classification tasks
 
