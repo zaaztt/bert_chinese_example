@@ -14,6 +14,8 @@ First, you need to clone my code and download chinese pretrained model here:
 
 You can explore data in the 'data' directory. We use sentiment in this instruction. You can test another one which is about stocks by you interests.
 
+
+
 ### Sentence (and sentence-pair) classification tasks
 
 This example code fine-tunes `BERT-Chinese-Model` on the Chinese sentiment classification, which only contains 17000 examples. The classification model is provided by us. So you can use it directly. They are in the 'sim_model' directory. If you want to make you own classification test, you can execute script below on your shell.
@@ -68,6 +70,14 @@ python run_classifier.py \
 ```
 
 Output will be created in file called test_results.csv in the output folder. Each line will contain output for each sample, columns are the class probabilities.
+
+### What is the difference between original BERT code and this?
+
+Little. This is the beauty of BERT. I only need to write a processor class to import the data then do a little revise about how to process data. So it is why fine-tune really makes BERT adapts to different NLP tasks.
+
+### What are these labels' meaning? 
+
+0 means neutral. 1 means good. 2 means bad.
 
 ### Cite
 This is the BERT article.
