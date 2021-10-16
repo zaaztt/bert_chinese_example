@@ -20,9 +20,6 @@ You can predict the sentence in inference mode by using the --do_predict=true co
 class probabilities.
 
 ```shell
-export BERT_BASE_DIR=/path/to/bert/uncased_L-12_H-768_A-12
-export DATA_DIR=/path/to/data
-export TRAINED_CLASSIFIER=/path/to/fine/tuned/classifier
 
 python run_classifier.py \
   --task_name=Sim \
