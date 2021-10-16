@@ -1,5 +1,9 @@
 # HOW TO USE BERT TO PREDICT A CHINESE SENTIMENT CLASSIFICATION?
 
+### Environment
+
+python 3.6
+tensorflow = 1.10
 
 ### Pre-train model
 First, you need to clone my code and download chinese pretrained model here:
