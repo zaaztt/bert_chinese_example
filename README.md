@@ -12,7 +12,7 @@ First, you need to clone my code and download chinese pretrained model here:
 
 ### Sentence (and sentence-pair) classification tasks
 
-This example code fine-tunes `BERT-Chinese-Model` on the Chinese sentiment classification, which only contains 17000 examples. The classification model is provided by us. So you can use it directly. They are in the 'sim_output' directory. If you want to make you own classification test, you can execute script below on your shell.
+This example code fine-tunes `BERT-Chinese-Model` on the Chinese sentiment classification, which only contains 17000 examples. The classification model is provided by us. So you can use it directly. They are in the 'sim_model' directory. If you want to make you own classification test, you can execute script below on your shell.
 
 
 ```shell
