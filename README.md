@@ -2,7 +2,8 @@
 
 ### Environment
 
-python 3.6
+python = 3.6
+
 tensorflow = 1.10
 
 ### Pre-train model
