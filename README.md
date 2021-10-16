@@ -24,7 +24,7 @@ class probabilities.
 python run_classifier.py \
   --task_name=Sim \
   --do_predict=true \
-  --data_dir=/path/to/data \
+  --data_dir=/path/to/data/ \
   --vocab_file=/path/to/bert/uncased_L-12_H-768_A-12/vocab.txt \
   --bert_config_file=/path/to/bert/uncased_L-12_H-768_A-12/bert_config.json \
   --init_checkpoint=/path/to/fine/tuned/classifier/ \
