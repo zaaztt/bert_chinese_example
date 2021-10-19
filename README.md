@@ -86,6 +86,11 @@ Little. This is the beauty of BERT. I only need to write a processor class to im
 
 0 means neutral. 1 means good. 2 means bad.
 
+### Demo
+
+If you want to see a demo, here it is!
+**[`demo`](https://drive.google.com/file/d/1IGW-BGooAzWN_3t0CuHUtBZKQszcVCSo/view?usp=sharing)**:
+
 ### Cite
 This is the BERT article.
 
