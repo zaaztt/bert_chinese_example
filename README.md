@@ -89,7 +89,7 @@ Little. This is the beauty of BERT. I only need to write a processor class to im
 ### Demo
 
 If you want to see a demo, here it is!
-**[`demo`](https://drive.google.com/file/d/1IGW-BGooAzWN_3t0CuHUtBZKQszcVCSo/view?usp=sharing)**:
+**[`demo`](https://drive.google.com/file/d/1IGW-BGooAzWN_3t0CuHUtBZKQszcVCSo/view?usp=sharing)**
 
 ### Cite
 This is the BERT article.
