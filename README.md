@@ -25,7 +25,7 @@ You can explore data in the 'data' directory. We use sentiment in this instructi
 
 
 
-This example code fine-tunes `BERT-Chinese-Model` on the Chinese sentiment classification, which only contains 17000 examples.   **[`sim_model`](https://drive.google.com/file/d/1ndSg0Za0Fk5YySaS-ghmJGdUDcZxzg1z/view?usp=sharing)** The classification model is provided by us. So you can use it directly. They should be in the 'sim_model' directory. If you want to make you own classification test, you can execute script below on your shell.
+This example code fine-tunes `BERT-Chinese-Model` on the Chinese sentiment classification, which only contains 17000 examples.   **[`sim_model`](https://drive.google.com/file/d/1ndSg0Za0Fk5YySaS-ghmJGdUDcZxzg1z/view?usp=sharing)** The classification model is provided by us. So you can use it directly. They should be in the 'sim_model' directory. If you want to make you own classification train, you can execute script below on your shell.
 
 
 ```shell
